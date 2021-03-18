@@ -5,7 +5,7 @@ button.addEventListener("click", () => {
   const box = document.createElement("div");
   box.classList.add("box");
 
-  box.addEventListener("dblclick", () => {
+  box.addEventListener("click", () => {
     box.remove();
   });
 

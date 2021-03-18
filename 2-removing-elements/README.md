@@ -8,8 +8,8 @@ When the user clicks one of the boxes, we should remove the clicked box
 
 ## Extra Challenge
 
-Removing is a destructive operation. Right now, once the user clicks the box, it's done.
-Let's ask the user first, if they are sure about their decission. They should `confirm` it, and after that we can safely remove it.
+Removing is a destructive operation. Right now, once the user clicks the box, it's gone.
+Let's ask the user first, if they are sure about their decision. They should `confirm` it, and after that we can safely remove it.
 
 ## Resources
 
