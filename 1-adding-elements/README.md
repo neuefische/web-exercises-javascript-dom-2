@@ -1,6 +1,6 @@
 # Exercise 1: Adding Elements
 
-When clicking on the "Add" button, new divs with the class `.box` should be created an appended to the `.container` element.
+When clicking on the "Add" button, new divs with the class `.box` should be created and appended to the `.container` element.
 
 ![Figure 1: End Result](pic1.png)
 

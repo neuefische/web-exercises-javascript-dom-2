@@ -1,8 +1,8 @@
 # Exercise 4: Adding Elements from Data
 
-When clicking on the "Add From Data" button, new divs should be created an appended to the `.container` element.
+When clicking on the "Add From Data" button, new divs should be created and appended to the `.container` element.
 
-In the `solution.js` file, you have an array of objects containing data defining which class and background color the elements added should have.
+In the `exercise.js` file you have an array of objects containing data defining which class and background color the elements added should have.
 
 ![Figure 1: End Result](pic1.png)
 
